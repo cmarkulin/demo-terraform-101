@@ -3,7 +3,7 @@ terraform {
 }
 
 provider "aws" {
-  #test3 tfc
+  #test3 tfc2
   version = ">= 2.27.0"
 }
 

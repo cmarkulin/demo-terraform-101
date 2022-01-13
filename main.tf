@@ -4,7 +4,7 @@ terraform {
 
 provider "aws" {
   #test3 tfc
-  version = ">= 2.27.0"
+  version = ">= 2.27.1"
 }
 
 module "server" {
